@@ -1,0 +1,26 @@
+{
+  "name": "holbertonschool-continuous_integration",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuMorel62/holbertonschool-continuous_integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuMorel62/holbertonschool-continuous_integration/issues"
+  },
+  "homepage": "https://github.com/MathieuMorel62/holbertonschool-continuous_integration#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.9.1"
+  }
+}
