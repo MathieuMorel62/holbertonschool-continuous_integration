@@ -4,4 +4,4 @@ import { add } from "../src/math.js";
 
 
 test("2 + 3 should equal 5", () => {
-  assert.equal(add(2, 3), 10);});
+  assert.equal(add(2, 3), 5);
